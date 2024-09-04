@@ -5,8 +5,8 @@
 ### 연구 분야
 - Vision AI
 - 6D Pose Estimation, Deep Learning
-- Simultaneous Localization And Mapping(SLAM)
 - Human-Robot Interaction
+- Simultaneous Localization And Mapping(SLAM)
 
 ## 구성원
 - **지도박사**
